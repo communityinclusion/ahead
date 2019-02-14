@@ -36,9 +36,13 @@ border-bottom:#2980B9 solid 3px;
 /*-------- FOOTER ---------*/
 
 
+footer {background-color: #2980B9}
+
 footer p {
 line-height:1.2;
 }
+
+footer a {color:blue}
 
 /*--------------------------*/
 
